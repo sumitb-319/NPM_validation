@@ -1,12 +1,10 @@
 {
-  "name": "validation-lib",
+  "name": "lightweight-validator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A lightweight JavaScript library for common input validations.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["validation", "email", "phone", "password", "url"],
+  "author": "Your Name",
+  "license": "MIT"
 }
+
